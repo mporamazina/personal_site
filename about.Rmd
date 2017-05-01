@@ -3,7 +3,7 @@ title: "About Me"
 ---
 
 - __Name:__ Desir
-- __Occuptaiton: __"Student"
+- __Occupation: __"Student"
 - __Hobbies:__ Cuban Salsa, Badminton, and Hiking
 
 ![](me_CV.jpg)
